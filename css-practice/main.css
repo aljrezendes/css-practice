@@ -1,0 +1,39 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-size: 32;
+    font-family: Verdana;
+    padding: 70px;
+    margin: 0.67em;
+    font-weight: bold;
+    text-decoration: ;
+    color: red;
+    background-color: gainsboro;
+}
+
+h2 {
+    font-size: 26;
+    font-family: 'Courier New';
+    padding: 50px;
+    margin: 0.90em;
+    font-weight: bold;
+    color: blue;
+    background-color: gainsboro;
+}
+
+p {
+    font-family: 'Times New Roman';
+    font-size: 13;
+    padding: 0.1px;
+    margin: 0.5em;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.logo {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #074f57;
+}
